@@ -14,7 +14,6 @@ contract main{
         
     }
 
-    //1000000000000000000
     event log(address _to, uint _amount, string _description);
 
 

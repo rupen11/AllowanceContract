@@ -141,11 +141,11 @@
 	},
 	"sources": {
 		"Allowance.sol": {
-			"keccak256": "0xbbac9573eaa8b1da2cda301fef9637cfe1a1e2664d65ef9f9167590a166518f5",
+			"keccak256": "0x2f89fe8807c1eeabeaf7b272841e4fe31b5cb17e4579685da952097c28a2bb2c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://035d2143ecf10c84aa4978b27fb9d4636dcc77317dddd738c85371c75f0d2f56",
-				"dweb:/ipfs/QmXSAGLweXjTQ7qhdwkQZpYNJKpkETgU6wJBjGQsG1fUQX"
+				"bzz-raw://c4f87ad33c37ea937358791d50adfe21e98fb5ce3b5ed148a4128f301e2e9a14",
+				"dweb:/ipfs/QmQbPHj5zyXisvGA5KdyZFexYCfGna9GVftsCC6vE2FxcM"
 			]
 		}
 	},
